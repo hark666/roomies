@@ -1,0 +1,8 @@
+{
+  "name": "roomie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "14e858fb"
+}
